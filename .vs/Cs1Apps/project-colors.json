@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6d9e13d-bc8d-4e92-9fda-099782c4e923": {
+      "ProjectGuid": "f6d9e13d-bc8d-4e92-9fda-099782c4e923",
+      "DisplayName": "OddOrEven",
+      "ColorIndex": 0
+    },
+    "8b6e3ff7-5a9f-466b-ba5b-cd964680c1a5": {
+      "ProjectGuid": "8b6e3ff7-5a9f-466b-ba5b-cd964680c1a5",
+      "DisplayName": "DigitParser",
+      "ColorIndex": 1
+    },
+    "7177a675-3022-42bd-93a4-8840a29803eb": {
+      "ProjectGuid": "7177a675-3022-42bd-93a4-8840a29803eb",
+      "DisplayName": "BodyMass",
+      "ColorIndex": 2
+    },
+    "dac522b1-a80a-4d30-8bf3-b5a3270361ff": {
+      "ProjectGuid": "dac522b1-a80a-4d30-8bf3-b5a3270361ff",
+      "DisplayName": "CarPool",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

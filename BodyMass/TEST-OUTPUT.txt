@@ -1,0 +1,184 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220122210559
+Username: KYLE-PC\ksrin
+RunAs User: KYLE-PC\ksrin
+Configuration Name: 
+Machine: KYLE-PC (Microsoft Windows NT 10.0.19042.0)
+Host Application: C:\WINDOWS\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\Users\ksrin\Documents\TINFO200\Cs1Apps' }
+Process ID: 62560
+PSVersion: 5.1.19041.1237
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1237
+BuildVersion: 10.0.19041.1237
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is TEST-OUTPUT.txt
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass> .\bin\Debug\BodyMass.exe
+
+Welcome to the BodyMass program! You will be prompted to enter your weight in
+pounds and height in inches. The program will then calculate your BMI based on
+these inputs. You will then be shown your BMI and what category it falls
+under according to the national BMI values.
+
+Please enter your weight in pounds (ex: 170.0, etc.): 120.0
+Please enter your height in inches (ex: 71.0, etc.): 71.0
+
+BMI VALUES
+
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater
+
+Your BMI is 16.7. According to the national BMI categories you are underweight.
+
+Thank you for using the BodyMass program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass> .\bin\Debug\BodyMass.exe
+
+Welcome to the BodyMass program! You will be prompted to enter your weight in
+pounds and height in inches. The program will then calculate your BMI based on
+these inputs. You will then be shown your BMI and what category it falls
+under according to the national BMI values.
+
+Please enter your weight in pounds (ex: 170.0, etc.): 150.0
+Please enter your height in inches (ex: 71.0, etc.): 71.0
+
+BMI VALUES
+
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater
+
+Your BMI is 20.9. According to the national BMI categories you are normal weight.
+
+Thank you for using the BodyMass program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass> .\bin\Debug\BodyMass.exe
+
+Welcome to the BodyMass program! You will be prompted to enter your weight in
+pounds and height in inches. The program will then calculate your BMI based on
+these inputs. You will then be shown your BMI and what category it falls
+under according to the national BMI values.
+
+Please enter your weight in pounds (ex: 170.0, etc.): 180.0
+Please enter your height in inches (ex: 71.0, etc.): 71.0
+
+BMI VALUES
+
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater
+
+Your BMI is 25.1. According to the national BMI categories you are overweight.
+
+Thank you for using the BodyMass program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass> .\bin\Debug\BodyMass.exe
+
+Welcome to the BodyMass program! You will be prompted to enter your weight in
+pounds and height in inches. The program will then calculate your BMI based on
+these inputs. You will then be shown your BMI and what category it falls
+under according to the national BMI values.
+
+Please enter your weight in pounds (ex: 170.0, etc.): 220.0
+Please enter your height in inches (ex: 71.0, etc.): 71.0
+
+BMI VALUES
+
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater
+
+Your BMI is 30.7. According to the national BMI categories you are obese.
+
+Thank you for using the BodyMass program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass> .\bin\Release\BodyMass.exe
+
+Welcome to the BodyMass program! You will be prompted to enter your weight in
+pounds and height in inches. The program will then calculate your BMI based on
+these inputs. You will then be shown your BMI and what category it falls
+under according to the national BMI values.
+
+Please enter your weight in pounds (ex: 170.0, etc.): 120.0
+Please enter your height in inches (ex: 71.0, etc.): 71.0
+
+BMI VALUES
+
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater
+
+Your BMI is 16.7. According to the national BMI categories you are underweight.
+
+Thank you for using the BodyMass program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass> .\bin\Release\BodyMass.exe
+
+Welcome to the BodyMass program! You will be prompted to enter your weight in
+pounds and height in inches. The program will then calculate your BMI based on
+these inputs. You will then be shown your BMI and what category it falls
+under according to the national BMI values.
+
+Please enter your weight in pounds (ex: 170.0, etc.): 150.0
+Please enter your height in inches (ex: 71.0, etc.): 71.0
+
+BMI VALUES
+
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater
+
+Your BMI is 20.9. According to the national BMI categories you are normal weight.
+
+Thank you for using the BodyMass program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass> .\bin\Release\BodyMass.exe
+
+Welcome to the BodyMass program! You will be prompted to enter your weight in
+pounds and height in inches. The program will then calculate your BMI based on
+these inputs. You will then be shown your BMI and what category it falls
+under according to the national BMI values.
+
+Please enter your weight in pounds (ex: 170.0, etc.): 180.0
+Please enter your height in inches (ex: 71.0, etc.): 71.0
+
+BMI VALUES
+
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater
+
+Your BMI is 25.1. According to the national BMI categories you are overweight.
+
+Thank you for using the BodyMass program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass> .\bin\Release\BodyMass.exe
+
+Welcome to the BodyMass program! You will be prompted to enter your weight in
+pounds and height in inches. The program will then calculate your BMI based on
+these inputs. You will then be shown your BMI and what category it falls
+under according to the national BMI values.
+
+Please enter your weight in pounds (ex: 170.0, etc.): 220.0
+Please enter your height in inches (ex: 71.0, etc.): 71.0
+
+BMI VALUES
+
+Underweight: less than 18.5
+Normal: between 18.5 and 24.9
+Overweight: between 25 and 29.9
+Obese: 30 or greater
+
+Your BMI is 30.7. According to the national BMI categories you are obese.
+
+Thank you for using the BodyMass program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20220122210739
+**********************

@@ -1,0 +1,7 @@
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass\obj\Release\BodyMass.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass\obj\Release\BodyMass.csproj.CoreCompileInputs.cache
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass\bin\Release\BodyMass.exe.config
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass\bin\Release\BodyMass.exe
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass\bin\Release\BodyMass.pdb
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass\obj\Release\BodyMass.exe
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\BodyMass\obj\Release\BodyMass.pdb

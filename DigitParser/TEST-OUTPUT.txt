@@ -1,0 +1,94 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220122205834
+Username: KYLE-PC\ksrin
+RunAs User: KYLE-PC\ksrin
+Configuration Name: 
+Machine: KYLE-PC (Microsoft Windows NT 10.0.19042.0)
+Host Application: C:\WINDOWS\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\Users\ksrin\Documents\TINFO200\Cs1Apps' }
+Process ID: 59708
+PSVersion: 5.1.19041.1237
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1237
+BuildVersion: 10.0.19041.1237
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is TEST-OUTPUT.txt
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser> .\bin\Debug\DigitParser.exe
+
+Welcome to the DigitParser program! This program will ask you to enter
+a five digit number and will seperate the given number into its individual
+digits. When attempting to enter a number without five digits, the
+program will inform you as to whether the number you entered was too big
+or too small.
+
+Please enter a positive five digit whole number (ex: 10000 - 99999): 42339
+4   2   3   3   9
+Thank you for using the DigitParser program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser> .\bin\Debug\DigitParser.exe
+
+Welcome to the DigitParser program! This program will ask you to enter
+a five digit number and will seperate the given number into its individual
+digits. When attempting to enter a number without five digits, the
+program will inform you as to whether the number you entered was too big
+or too small.
+
+Please enter a positive five digit whole number (ex: 10000 - 99999): 423399
+You have entered a number with too many digits.
+
+Thank you for using the DigitParser program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser> .\bin\Debug\DigitParser.exe
+
+Welcome to the DigitParser program! This program will ask you to enter
+a five digit number and will seperate the given number into its individual
+digits. When attempting to enter a number without five digits, the
+program will inform you as to whether the number you entered was too big
+or too small.
+
+Please enter a positive five digit whole number (ex: 10000 - 99999): 4233
+You have entered a number with too few digits.
+
+Thank you for using the DigitParser program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser> .\bin\Release\DigitParser.exe
+
+Welcome to the DigitParser program! This program will ask you to enter
+a five digit number and will seperate the given number into its individual
+digits. When attempting to enter a number without five digits, the
+program will inform you as to whether the number you entered was too big
+or too small.
+
+Please enter a positive five digit whole number (ex: 10000 - 99999): 42339
+4   2   3   3   9
+Thank you for using the DigitParser program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser> .\bin\Release\DigitParser.exe
+
+Welcome to the DigitParser program! This program will ask you to enter
+a five digit number and will seperate the given number into its individual
+digits. When attempting to enter a number without five digits, the
+program will inform you as to whether the number you entered was too big
+or too small.
+
+Please enter a positive five digit whole number (ex: 10000 - 99999): 423399
+You have entered a number with too many digits.
+
+Thank you for using the DigitParser program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser> .\bin\Release\DigitParser.exe
+
+Welcome to the DigitParser program! This program will ask you to enter
+a five digit number and will seperate the given number into its individual
+digits. When attempting to enter a number without five digits, the
+program will inform you as to whether the number you entered was too big
+or too small.
+
+Please enter a positive five digit whole number (ex: 10000 - 99999): 4233
+You have entered a number with too few digits.
+
+Thank you for using the DigitParser program.
+PS C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20220122205938
+**********************

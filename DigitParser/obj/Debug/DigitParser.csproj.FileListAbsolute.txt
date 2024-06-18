@@ -1,0 +1,7 @@
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser\bin\Debug\DigitParser.exe.config
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser\bin\Debug\DigitParser.exe
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser\bin\Debug\DigitParser.pdb
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser\obj\Debug\DigitParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser\obj\Debug\DigitParser.csproj.CoreCompileInputs.cache
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser\obj\Debug\DigitParser.exe
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\DigitParser\obj\Debug\DigitParser.pdb

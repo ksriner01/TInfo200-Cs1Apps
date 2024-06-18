@@ -1,0 +1,7 @@
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\OddOrEven\bin\Release\OddOrEven.exe.config
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\OddOrEven\bin\Release\OddOrEven.exe
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\OddOrEven\bin\Release\OddOrEven.pdb
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\OddOrEven\obj\Release\OddOrEven.csproj.SuggestedBindingRedirects.cache
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\OddOrEven\obj\Release\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\OddOrEven\obj\Release\OddOrEven.exe
+C:\Users\ksrin\Documents\TINFO200\Cs1Apps\OddOrEven\obj\Release\OddOrEven.pdb
